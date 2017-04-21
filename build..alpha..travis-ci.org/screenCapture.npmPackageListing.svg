@@ -1,44 +1,44 @@
 <svg height="654" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="654" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-21 12:13:23 +0000    55113 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-21 12:13:23 +0000     1079 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-21 12:13:23 +0000     6239 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-21 12:13:23 +0000      614 bytes  android/build.gradle</tspan>
-<tspan x="10" y="90">  4.  2017-04-21 12:13:23 +0000      157 bytes  android/src/main/AndroidManifest.xml</tspan>
-<tspan x="10" y="106">  5.  2017-04-21 12:13:23 +0000     1784 bytes  android/src/main/java/com/cmcewen/blurview/BlurV\</tspan>
+<tspan x="10" y="26">  0.  2017-04-21 12:14:22 +0000    55113 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 12:14:22 +0000     1079 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 12:14:22 +0000     6239 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 12:14:22 +0000      614 bytes  android/build.gradle</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 12:14:22 +0000      157 bytes  android/src/main/AndroidManifest.xml</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 12:14:22 +0000     1784 bytes  android/src/main/java/com/cmcewen/blurview/BlurV\</tspan>
 <tspan x="10" y="122">iewManager.java</tspan>
-<tspan x="10" y="138">  6.  2017-04-21 12:13:23 +0000     1005 bytes  android/src/main/java/com/cmcewen/blurview/BlurV\</tspan>
+<tspan x="10" y="138">  6.  2017-04-21 12:14:22 +0000     1005 bytes  android/src/main/java/com/cmcewen/blurview/BlurV\</tspan>
 <tspan x="10" y="154">iewPackage.java</tspan>
-<tspan x="10" y="170">  7.  2017-04-21 12:13:23 +0000     7897 bytes  android/src/main/java/com/cmcewen/blurview/Blurr\</tspan>
+<tspan x="10" y="170">  7.  2017-04-21 12:14:22 +0000     7897 bytes  android/src/main/java/com/cmcewen/blurview/Blurr\</tspan>
 <tspan x="10" y="186">ingView.java</tspan>
-<tspan x="10" y="202">  8.  2017-04-21 12:13:23 +0000      294 bytes  android/src/main/res/values/attr.xml</tspan>
-<tspan x="10" y="218">  9.  2017-04-21 12:13:23 +0000      233 bytes  android/src/main/res/values/defaults.xml</tspan>
-<tspan x="10" y="234"> 10.  2017-04-21 12:13:23 +0000      175 bytes  index.js</tspan>
-<tspan x="10" y="250"> 11.  2017-04-21 12:13:23 +0000      224 bytes  ios/BlurEffectWithAmount.h</tspan>
-<tspan x="10" y="266"> 12.  2017-04-21 12:13:23 +0000     1685 bytes  ios/BlurEffectWithAmount.m</tspan>
-<tspan x="10" y="282"> 13.  2017-04-21 12:13:23 +0000      349 bytes  ios/BlurView.h</tspan>
-<tspan x="10" y="298"> 14.  2017-04-21 12:13:23 +0000     1600 bytes  ios/BlurView.m</tspan>
-<tspan x="10" y="314"> 15.  2017-04-21 12:13:23 +0000       84 bytes  ios/BlurViewManager.h</tspan>
-<tspan x="10" y="330"> 16.  2017-04-21 12:13:23 +0000      263 bytes  ios/BlurViewManager.m</tspan>
-<tspan x="10" y="346"> 17.  2017-04-21 12:13:23 +0000    10885 bytes  ios/RNBlur.xcodeproj/project.pbxproj</tspan>
-<tspan x="10" y="362"> 18.  2017-04-21 12:13:23 +0000      135 bytes  ios/RNBlur.xcodeproj/project.xcworkspace/content\</tspan>
+<tspan x="10" y="202">  8.  2017-04-21 12:14:22 +0000      294 bytes  android/src/main/res/values/attr.xml</tspan>
+<tspan x="10" y="218">  9.  2017-04-21 12:14:22 +0000      233 bytes  android/src/main/res/values/defaults.xml</tspan>
+<tspan x="10" y="234"> 10.  2017-04-21 12:14:22 +0000      175 bytes  index.js</tspan>
+<tspan x="10" y="250"> 11.  2017-04-21 12:14:22 +0000      224 bytes  ios/BlurEffectWithAmount.h</tspan>
+<tspan x="10" y="266"> 12.  2017-04-21 12:14:22 +0000     1685 bytes  ios/BlurEffectWithAmount.m</tspan>
+<tspan x="10" y="282"> 13.  2017-04-21 12:14:22 +0000      349 bytes  ios/BlurView.h</tspan>
+<tspan x="10" y="298"> 14.  2017-04-21 12:14:22 +0000     1600 bytes  ios/BlurView.m</tspan>
+<tspan x="10" y="314"> 15.  2017-04-21 12:14:22 +0000       84 bytes  ios/BlurViewManager.h</tspan>
+<tspan x="10" y="330"> 16.  2017-04-21 12:14:22 +0000      263 bytes  ios/BlurViewManager.m</tspan>
+<tspan x="10" y="346"> 17.  2017-04-21 12:14:22 +0000    10885 bytes  ios/RNBlur.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="362"> 18.  2017-04-21 12:14:22 +0000      135 bytes  ios/RNBlur.xcodeproj/project.xcworkspace/content\</tspan>
 <tspan x="10" y="378">s.xcworkspacedata</tspan>
-<tspan x="10" y="394"> 19.  2017-04-21 12:13:23 +0000    10274 bytes  ios/RNBlur.xcodeproj/project.xcworkspace/xcuserd\</tspan>
+<tspan x="10" y="394"> 19.  2017-04-21 12:14:22 +0000    10274 bytes  ios/RNBlur.xcodeproj/project.xcworkspace/xcuserd\</tspan>
 <tspan x="10" y="410">ata/xamd.xcuserdatad/UserInterfaceState.xcuserstate</tspan>
-<tspan x="10" y="426"> 20.  2017-04-21 12:13:23 +0000     2826 bytes  ios/RNBlur.xcodeproj/xcuserdata/xamd.xcuserdatad\</tspan>
+<tspan x="10" y="426"> 20.  2017-04-21 12:14:22 +0000     2826 bytes  ios/RNBlur.xcodeproj/xcuserdata/xamd.xcuserdatad\</tspan>
 <tspan x="10" y="442">/xcschemes/RNBlur.xcscheme</tspan>
-<tspan x="10" y="458"> 21.  2017-04-21 12:13:23 +0000      478 bytes  ios/RNBlur.xcodeproj/xcuserdata/xamd.xcuserdatad\</tspan>
+<tspan x="10" y="458"> 21.  2017-04-21 12:14:22 +0000      478 bytes  ios/RNBlur.xcodeproj/xcuserdata/xamd.xcuserdatad\</tspan>
 <tspan x="10" y="474">/xcschemes/xcschememanagement.plist</tspan>
-<tspan x="10" y="490"> 22.  2017-04-21 12:13:23 +0000       62 bytes  ios/VibrancyView.h</tspan>
-<tspan x="10" y="506"> 23.  2017-04-21 12:13:23 +0000     1153 bytes  ios/VibrancyView.m</tspan>
-<tspan x="10" y="522"> 24.  2017-04-21 12:13:23 +0000       87 bytes  ios/VibrancyViewManager.h</tspan>
-<tspan x="10" y="538"> 25.  2017-04-21 12:13:23 +0000      277 bytes  ios/VibrancyViewManager.m</tspan>
-<tspan x="10" y="554"> 26.  2017-04-21 12:13:23 +0000      673 bytes  package.json</tspan>
-<tspan x="10" y="570"> 27.  2017-04-21 12:13:23 +0000      552 bytes  react-native-blur.podspec</tspan>
-<tspan x="10" y="586"> 28.  2017-04-21 12:13:23 +0000     2575 bytes  src/BlurView.android.js</tspan>
-<tspan x="10" y="602"> 29.  2017-04-21 12:13:23 +0000      650 bytes  src/BlurView.ios.js</tspan>
-<tspan x="10" y="618"> 30.  2017-04-21 12:13:23 +0000      188 bytes  src/VibrancyView.android.js</tspan>
-<tspan x="10" y="634"> 31.  2017-04-21 12:13:23 +0000      616 bytes  src/VibrancyView.ios.js</tspan>
+<tspan x="10" y="490"> 22.  2017-04-21 12:14:22 +0000       62 bytes  ios/VibrancyView.h</tspan>
+<tspan x="10" y="506"> 23.  2017-04-21 12:14:22 +0000     1153 bytes  ios/VibrancyView.m</tspan>
+<tspan x="10" y="522"> 24.  2017-04-21 12:14:22 +0000       87 bytes  ios/VibrancyViewManager.h</tspan>
+<tspan x="10" y="538"> 25.  2017-04-21 12:14:22 +0000      277 bytes  ios/VibrancyViewManager.m</tspan>
+<tspan x="10" y="554"> 26.  2017-04-21 12:14:22 +0000      673 bytes  package.json</tspan>
+<tspan x="10" y="570"> 27.  2017-04-21 12:14:22 +0000      552 bytes  react-native-blur.podspec</tspan>
+<tspan x="10" y="586"> 28.  2017-04-21 12:14:22 +0000     2575 bytes  src/BlurView.android.js</tspan>
+<tspan x="10" y="602"> 29.  2017-04-21 12:14:22 +0000      650 bytes  src/BlurView.ios.js</tspan>
+<tspan x="10" y="618"> 30.  2017-04-21 12:14:22 +0000      188 bytes  src/VibrancyView.android.js</tspan>
+<tspan x="10" y="634"> 31.  2017-04-21 12:14:22 +0000      616 bytes  src/VibrancyView.ios.js</tspan>
 </text>
 </svg>
